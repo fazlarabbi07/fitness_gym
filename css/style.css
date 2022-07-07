@@ -190,3 +190,29 @@ height: 500px;
 /* .about-section{
     border: 2px solid red;
 } */
+.workout-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 200px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(../images/images/shape/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+}
+.workout-title{
+    font-size: 30px;
+    color: white;
+}
+.lets-chat-btn button{
+    
+    padding: 10px 30px;
+    background-color: red;
+    border-radius: 5px;
+    color: White;
+    font-weight: 700;
+}
