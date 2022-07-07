@@ -33,6 +33,7 @@
     font-size: 18px;
     
 }
+
 .menu-items li:hover{
     color:tomato;
     cursor: pointer;
@@ -80,5 +81,40 @@
 .banner-right img{
     height:100%;
     width: 100%;
+}
+.take-a-look{
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+   
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    
+}
+.card1{
+    border: 1px solid blue;
+    padding: 20px;
+    margin: 40px;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    box-shadow: 10px 10px 20px gray ;
+    border-radius: 5px;
+}
+.card1:hover{
+    border: 1px solid tomato;
+    margin-top: 0;
+    transition: 2.9ms; ;
+
+}
+
+.card-logo img{
+    height: 50px;
+    width: 50px;
+}
+.card-text{
+    text-align: justify;
 }
 
