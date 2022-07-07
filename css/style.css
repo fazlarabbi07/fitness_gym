@@ -117,4 +117,59 @@
 .card-text{
     text-align: justify;
 }
+/* ABOUT SECTION START */
+.about-us{
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    margin: 20px;
+    /* color: white; */
 
+}
+.about-container{
+    background-color: black;
+}
+.about-section{
+    display: flex;
+    
+    
+}
+.about-left{
+    display: flex;
+    border: 1px solid red;
+    margin: 10px;
+    padding: 10px;
+    height: 500px;
+    justify-content: center;
+}
+.about-right{
+   
+border: 1px solid red;
+margin: 10px;
+padding: 10px;
+height: 500px;
+/* text-align: center; */
+}
+.about-description{
+    margin: 10px;
+    padding: 10px;
+}
+.about-title{
+    margin: 10px;
+    padding: 10px;
+    color:white; 
+}
+.about-description p{
+    color:white;
+}
+.about-list{
+   padding: 5px;
+   /* border:1px solid green; */
+   margin-bottom: 10px;
+   margin-left: 10px;
+   
+}
+.about-list li{
+    list-style-type:disc;
+    color:white; 
+}
