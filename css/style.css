@@ -253,3 +253,41 @@ height: 500px;
 #color-tomato{
     color: tomato;
 }
+.batch-image img{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 0;
+    border: 2px solid green;
+}
+.social-media{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0 50px 0;
+
+}
+.social-container{
+    text-align: center;
+    border-top: 2px solid gray;
+    margin-top: 50px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.media h6{
+    /* border: 2px solid green; */
+    margin: 5px;
+    padding: 10px;
+}
+#facebook{
+    background-color: #4267B2;
+    color: White;
+    border-radius: 3px;
+   
+}
+#youtube{
+    background-color: #FF0000;
+    color:White;
+    border-radius: 3px;
+    margin-left: 10px;
+}
