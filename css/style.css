@@ -265,7 +265,7 @@ height: 500px;
 so jar upore boshabo, take position=relative
 ar je boshbe take position=absoulate boshabo */
 .card-image{
-    border: 1px solid red;
+   
     position: relative;
 }
 .batch-image{
